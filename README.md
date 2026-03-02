@@ -84,5 +84,3 @@ This project was developed as part of a Web Development / JavaScript training pr
 * CSS framework integration
 * GitHub project management
 * Netlify deployment
-
-```
