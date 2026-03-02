@@ -86,6 +86,3 @@ This project was developed as part of a Web Development / JavaScript training pr
 * Netlify deployment
 
 ```
-
----
-
