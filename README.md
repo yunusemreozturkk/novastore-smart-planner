@@ -1,29 +1,3 @@
-Şu an README yanlış olmuş 😄
-
-İçine sadece şu yazı girmiş:
-
-```
-git add README.md git commit -m "Update README for submission" git push
-```
-
-Yani komutları README’nin içine yapıştırmışsın.
-
-Sorun değil, şimdi düzgün şekilde düzeltelim 👇
-
----
-
-# Doğru Şekilde README Güncelleme
-
-1. GitHub’da `README.md` dosyasına gir
-2. Sağ üstte **✏️ Edit (kalem)** ikonuna bas
-3. İçindeki her şeyi sil
-4. Aşağıdaki içeriğin TAMAMINI yapıştır
-
----
-
-## Yapıştırılacak Doğru README İçeriği
-
-```md
 # NovaStore Smart Planner ✅
 
 A modern task manager built with **React + Vite + TailwindCSS**.
